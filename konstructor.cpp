@@ -42,3 +42,11 @@ void mahasiswa::cetak()
     cout << " Nama = " << nama << endl;
 }
 
+
+    mhs1.cetak();
+    mhs2.cetak();
+    mhs3.cetak();
+    mhs4.cetak();
+
+    return 0;
+}
